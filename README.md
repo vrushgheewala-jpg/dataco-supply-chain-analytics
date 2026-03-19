@@ -18,13 +18,9 @@ The goal was to identify revenue drivers, delivery SLA failures, and profitabili
 
 ## 🔗 Live Dashboards
 
-| Dashboard | Link |
+| Dashboards | Link |
 |---|---|
-| 📊 Sales & Revenue Command Center | [View on Tableau Public](#) |
-| 🚚 Delivery & SLA Performance Tracker | [View on Tableau Public](#) |
-| 👥 Customer Segment & Profitability Intelligence | [View on Tableau Public](#) |
-
-> Replace `#` with your actual Tableau Public links after publishing
+| 📊 DataCo Supply Chain Analytics | [View on Tableau Public](https://public.tableau.com/app/profile/vrushang.gheewala/viz/DataCoSupplyChainAnalytics_17739056561290/SalesRevenueCommandCenter)
 
 ---
 
@@ -91,7 +87,6 @@ The notebook covers 10 steps:
 
 ### Dashboard 1 — Sales & Revenue
 - **Fishing** is the top category with **$6.9M revenue** and **$756K profit**
-- **Western Europe** leads globally at **$5.9M** but operates below average margin
 - **Standard Class** drives 60%+ of all revenue but has the highest late delivery risk
 
 ### Dashboard 2 — Delivery & SLA
@@ -102,7 +97,7 @@ The notebook covers 10 steps:
 ### Dashboard 3 — Customer Segments
 - **Consumer segment** generates the most profit at **$2.1M** — nearly double Corporate
 - **Top 10 categories** account for the majority of total profit
-- **Golf Bags & Carts** has the highest late delivery rate at **68.9%**
+- **Western Europe** leads globally at **$5.9M** but operates below average margin
 
 ---
 
@@ -120,7 +115,7 @@ The notebook covers 10 steps:
 **Vrushang Gheewala**
 Data Analyst | Operations & Supply Chain
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vrushang-gheewala-350b90291/)
 [![Tableau](https://img.shields.io/badge/Tableau-Portfolio-4A7C59?style=flat&logo=tableau)](https://public.tableau.com/app/profile/vrushang.gheewala)
 
 ---
